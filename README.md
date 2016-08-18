@@ -6,6 +6,13 @@
 - https://github.com/yutin1987
 - http://fb.me/yuting1987
 
+# 主要開發方案
+
+- ReactNative & React
+- PHP Laravel & NodeJS
+- AWS & Heroku
+- MySQL & PostgreSQL
+
 # 經歷
 - AirPoPo - 工程師
 - 聯發科技 MediaTek, Inc. - 前端工程師
