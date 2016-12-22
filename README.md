@@ -5,6 +5,7 @@
 - yuting1987@gmail.com
 - https://github.com/yutin1987
 - http://fb.me/yuting1987
+- https://twitter.com/yutin1987
 
 # 主要開發方案
 
