@@ -3,11 +3,11 @@
 > 1987/09/19
 
 - yuting1987@gmail.com
+- https://twitter.com/yutin1987
 - https://github.com/yutin1987
 - http://fb.me/yuting1987
-- https://twitter.com/yutin1987
 
-# 主要開發方案
+# Skills
 
 - ReactNative & React
 - PHP Laravel & NodeJS
@@ -15,11 +15,11 @@
 - MySQL & PostgreSQL
 
 # 經歷
-- AirPoPo - 工程師
-- 聯發科技 MediaTek, Inc. - 前端工程師
-- 時間軸科技 Hiiir, Inc. - 資深工程師
-- 威聯通科技 QNAP Systems, Inc. - 工程師
-- 廣達電腦 Quanta Computer, Inc. - 測試工程師
+- AirPoPo - Software Engineer (Web/App)
+- 聯發科技 MediaTek, Inc. - Software Engineer (Web/App)
+- 時間軸科技 Hiiir, Inc. - Software Engineer (Web/PHP)
+- 威聯通科技 QNAP Systems, Inc. - Software Engineer (PHP)
+- 廣達電腦 Quanta Computer, Inc. - Test Engineer
 
 # 學歷
 
