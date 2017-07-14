@@ -15,6 +15,7 @@
 - MySQL & PostgreSQL
 
 # 經歷
+- 集界科技 t, mot - Chief Happy Architect (Web/App)
 - AirPoPo - Software Engineer (Web/App)
 - 聯發科技 MediaTek, Inc. - Software Engineer (Web/App)
 - 時間軸科技 Hiiir, Inc. - Software Engineer (Web/PHP)
