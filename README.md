@@ -30,7 +30,7 @@
 
 # 作品
 
-- UniQR：https://.com/
+- UniQR：https://tmotx.com/
 - AirPoPo：https://www.airpopo.com/
 - 呼叫律師：http://www.lawcall.tw/
 - 心靈角落：https://itunes.apple.com/us/app/xin-ling-jiao-luo/id1057769602
