@@ -9,10 +9,11 @@
 
 # Skills
 
+- Android & iOS native
 - ReactNative & React
-- PHP Laravel & NodeJS
-- AWS & Heroku
-- MySQL & PostgreSQL
+- NodeJS & Python
+- AWS & GCloud & Kubernetes
+- PostgreSQL
 
 # 經歷
 - 集界科技 t, mot - Chief Happy Architect (Web/App)
