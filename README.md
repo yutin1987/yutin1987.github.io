@@ -5,7 +5,7 @@
 - yuting1987@gmail.com
 - https://twitter.com/yutin1987
 - https://github.com/yutin1987
-- http://fb.me/yuting1987
+- http://fb.me/yutin1987
 
 # Skills
 
