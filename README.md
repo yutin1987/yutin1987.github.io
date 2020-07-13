@@ -10,12 +10,13 @@
 # Skills
 
 - Android & iOS native
-- ReactNative & React
-- NodeJS & Python
+- ReactNative & React & NextJS
+- NodeJS & Python & GraphQL
 - AWS & GCloud & Kubernetes
 - PostgreSQL
 
 # 經歷
+- 乘聚科技 mutix, Inc. - Co-founder, Chief technology officer.
 - 集界科技 t, mot - Creative Leader
 - AirPoPo - Software Engineer (Web/App)
 - 聯發科技 MediaTek, Inc. - Software Engineer (Web/App)
@@ -30,6 +31,8 @@
 
 # 作品
 
+- mutix: https://mutix.co/
+- Riddle Run: https://apps.apple.com/us/app/riddle-run/id1492834251
 - UniQR：https://tmotx.com/
 - AirPoPo：https://www.airpopo.com/
 - 呼叫律師：http://www.lawcall.tw/
@@ -43,6 +46,8 @@
 
 
 # 得獎紀錄
+
+- 2019 總統盃黑客松 資料申請小幫手 - 卓越團隊
 
 - 2016 經濟部工業局 亞洲跨國黑客競賽 - 台灣第一名
 
