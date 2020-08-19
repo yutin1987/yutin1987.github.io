@@ -16,7 +16,8 @@
 - PostgreSQL
 
 # 經歷
-- 乘聚科技 mutix, Inc. - Co-founder, Chief technology officer.
+- 乘聚科技 mutix Co, Ltd. - Co-founder, Chief technology officer
+- 應援科技 Oen co.,Ltd. - Staff Engineer
 - 集界科技 t, mot - Creative Leader
 - AirPoPo - Software Engineer (Web/App)
 - 聯發科技 MediaTek, Inc. - Software Engineer (Web/App)
