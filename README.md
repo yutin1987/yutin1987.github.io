@@ -7,7 +7,7 @@
 - https://github.com/yutin1987
 - http://fb.me/yutin1987
 
-# Skills
+# 技能（Skill）
 
 - Android & iOS native
 - ReactNative & React & NextJS
@@ -15,7 +15,7 @@
 - AWS & GCloud & Kubernetes
 - PostgreSQL
 
-# 經歷
+# 經歷（Experience）
 - 乘聚科技 mutix Co, Ltd. - Co-founder, Chief technology officer
 - 應援科技 Oen co.,Ltd. - Staff Engineer
 - 集界科技 t, mot - Creative Leader
@@ -25,12 +25,12 @@
 - 威聯通科技 QNAP Systems, Inc. - Software Engineer (PHP)
 - 廣達電腦 Quanta Computer, Inc. - Test Engineer
 
-# 學歷
+# 學歷（Degree）
 
-- 大學：國立臺中科技大學 四技部 資訊管理系
-- 高中：卓蘭實驗高級中學 高職部 資料處理科
+- 大學 (Bachelor's Degree)
+  - 國立臺中科技大學 四技部 資訊管理系 (National Taichung University of Science and Technology, Management Information)
 
-# 作品
+# 作品（Portfolio）
 
 - mutix: https://mutix.co/
 - Riddle Run: https://apps.apple.com/us/app/riddle-run/id1492834251
@@ -46,7 +46,7 @@
 - Fireque：https://github.com/yutin1987/node-fireque
 
 
-# 得獎紀錄
+# 得獎紀錄（Award）
 
 - 2019 總統盃黑客松 資料申請小幫手 - 卓越團隊
 
