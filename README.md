@@ -47,18 +47,18 @@
 
 # 得獎紀錄（Award）
 
-- 2019 總統盃黑客松 資料申請小幫手 - 卓越團隊
+- 2019 總統盃黑客松 資料申請小幫手 - Merit Award.
 
-- 2016 經濟部工業局 亞洲跨國黑客競賽 - 台灣第一名
+- 2016 經濟部工業局 亞洲跨國黑客競賽 - Taiwan First place.
 
-- 2013 Node.js Knockout - Global 第三名
+- 2013 Node.js Knockout - Global second runner-up.
 
-- 2012 Node.js Knockout - Taiwan 第二名
+- 2012 Node.js Knockout - Taiwan first runner-up.
 
-- 2011 中華電信智慧家庭 創新應用獎 - 優選
+- 2011 中華電信智慧家庭 創新應用獎 - Merit Award.
 
-- 2010 中華電信電信應用大賽 MOD 應用組 - 佳作
+- 2010 中華電信電信應用大賽 MOD 應用組 - Merit Award.
 
-- 2005 第 35 屆全國技能競賽網頁設計職類 - 第一名
+- 2005 第 35 屆全國技能競賽網頁設計職類 - First place.
 
-- 2005 94 學年度教育部學生技藝競賽網頁設計職種 - 優勝
+- 2005 94 學年度教育部學生技藝競賽網頁設計職種 - Merit Award.
