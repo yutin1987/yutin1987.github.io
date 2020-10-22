@@ -35,7 +35,6 @@
 - Riddle Run: https://apps.apple.com/us/app/riddle-run/id1492834251
 - UniQR：https://tmotx.com/
 - AirPoPo：https://www.airpopo.com/
-- 呼叫律師：http://www.lawcall.tw/
 - 心靈角落：https://itunes.apple.com/us/app/xin-ling-jiao-luo/id1057769602
 - MediaTek Cloud Sandbox：https://mcs.mediatek.com/
 - 八仙粉塵爆炸傷者開放資料查詢：https://g0v.github.io/color/
